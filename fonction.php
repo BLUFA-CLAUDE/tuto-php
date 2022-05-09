@@ -15,7 +15,8 @@
          * @return void
          */
            function additionner($nb1, $nb2){
-               echo $nb1 + $nb2;
+               
+            echo $nb1 + $nb2;
            }
 
            function saluer($prenom, $nom, $salutation="Hello"){
