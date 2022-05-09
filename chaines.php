@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Manipulation des chaines de caractère</title>
+        <title>Manipulation des chaines de caractère Cours 2</title>
     </head>
     <body>
         

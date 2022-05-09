@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Manipulation des nombres</title>
+        <title>Manipulation des nombres Cours 3</title>
     </head>
     <body>
         <!-- Commentaire HTML-->
